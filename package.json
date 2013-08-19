@@ -1,0 +1,18 @@
+{
+  "author": "Thomas Kosiewski",
+  "name": "localStorage assync",
+  "description": "Abstraction of HTML5's localStorage with added assyncronity",
+  "version": "0.1.0",
+  "repository": {
+    "type" : "git",
+    "url": "https://github.com/ThomasK33/localStorage-assync.git"
+  },
+  "keywords": [
+    "localStorage",
+    "assnyc"
+  ],
+  "main": "localStorage assync.js",
+  "engines": {
+    "node": "*"
+  }
+}
