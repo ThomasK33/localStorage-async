@@ -7,7 +7,7 @@ Usage
 -----
 
 ```javascript
-	var localStorage = require(localstorage-assync);
+	var localStorage = require("localstorage-assync");
 
 	/**
 	 * [configure - quick setup of localStorage]
@@ -18,11 +18,11 @@ Usage
 
 	/**
 	 * [setLocation - set localStorage's current directory]
-	 * @param {String}   loc      [The directory which should be used]
-	 * @param {Boolean}   rem      [Delete currently used directory?]
+	 * @param {String}   location      [The directory which should be used]
+	 * @param {Boolean}   remove      [Delete currently used directory?]
 	 * @param {Function} callback [Function to be executed when finished]
 	 */
-	localStorage.setLocation(loc, rem, callback);
+	localStorage.setLocation(location, remove, callback);
 
 	/**
 	 * [getLocation - get localStorage's current directory]
