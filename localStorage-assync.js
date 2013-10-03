@@ -3,7 +3,8 @@ function localStorage () {
 		path = require('path'),
 		_this = this,
 		location = './localStorage',
-		encoding = "utf-8";
+		encoding = "utf-8",
+		cache = {};
 
 	this.length = 0;
 	
