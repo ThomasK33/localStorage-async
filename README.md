@@ -1,4 +1,4 @@
-localStorage-assync
+localStorage-async
 ===================
 
 Abstraction of HTML5's localStorage with added asynchronity for node
