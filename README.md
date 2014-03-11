@@ -1,7 +1,7 @@
 localStorage-assync
 ===================
 
-Abstraction of HTML5's localStorage with added assyncronity for node
+Abstraction of HTML5's localStorage with added asynchronity for node
 
 Usage
 -----
