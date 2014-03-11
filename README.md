@@ -7,7 +7,7 @@ Usage
 -----
 
 ```javascript
-	var localStorage = require("localstorage-assync");
+	var localStorage = require("localstorage-async");
 
 	/**
 	 * [configure - quick setup of localStorage]
