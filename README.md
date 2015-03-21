@@ -1,6 +1,8 @@
 localStorage-async
 ===================
 
+![](https://david-dm.org/ThomasK33/localStorage-async.svg)
+
 Abstraction of HTML5's localStorage with added asynchronity for node
 
 Usage
